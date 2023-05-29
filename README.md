@@ -27,3 +27,5 @@ To get started with this project, clone the repository and open the `index.html`
 Throughout this project, I faced a few challenges that I had to overcome. The biggest one was realizing that the input function takes in strings and not numbers, which caused me to get "NaN" as the answer. Once I realized this, I was able to convert the input to a number, and the problem was solved.
 
 I also encountered an issue with rounding the BMI value to two decimal places with the toFixed() method. Although I was familiar with its usage, I couldn't get it to work for some reason. This situation is typical in coding when everything appears correct, yet there's no output. Nevertheless, after some experimentation, it unexpectedly began functioning, and I was able to round the value to two decimal places.
+
+![image](https://github.com/paribhandarkar/BMI-calculator/assets/76446574/3df932b5-84e3-442e-b9a2-437ee778a8f0)
